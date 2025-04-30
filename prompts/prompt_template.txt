@@ -1,0 +1,12 @@
+Agent: {agent_name}
+{agent_profile}
+
+Read the following news article:
+
+Title: {article_title}
+Content: {article_summary}
+
+Answer the following:
+1. On a scale of 1 (Very Unlikely) to 5 (Very Likely), how likely are you to take the COVID-19 vaccine after reading this article?
+2. On a scale of 1 (Not confident) to 5 (Very confident), how confident are you in your response?
+3. In one sentence, describe how this article makes you feel emotionally.
