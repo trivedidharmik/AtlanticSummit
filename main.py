@@ -75,7 +75,7 @@ async def run_task(agent_name, agent_profile, article_title, article_summary):
 async def main():
     tasks = []
     for _, agent_row in agent_df.iterrows():
-        agent_name = agent_row.get("Name") or agent_row.index[0]
+        agent_name = agent_row.get("Agent") or agent_row.index[0]
         agent_profile = agent_row.dropna().to_string(index=False)
         for _, article_row in articles_df.iterrows():
             title = article_row.get("Title", "")

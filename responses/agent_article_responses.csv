@@ -1,21 +1,21 @@
 agent,article,likelihood,confidence,emotion
-Agent,“COVID-19 Vaccines Cause ‘Turbo Cancer’”,1.0,1.0,"In one sentence, describe how this article makes you feel emotionally. The article alleviates my concerns about the safety of COVID-19 vaccines, providing scientific evidence that contradicts conspiracy theories and increases my confidence in the vaccine's effectiveness."
-Agent,“COVID-19 Vaccines Contain Microchips for Tracking”,1.0,5.0,"This article makes me feel relieved emotionally, as it sets the record straight on a common misconception that can fuel mistrust of important public health measures."
-Agent,“COVID-19 Vaccine Alters Human DNA”,1.0,1.0,"In one sentence, describe how this article makes you feel emotionally. This article alleviates my concerns about the safety and efficacy of COVID-19 vaccines, making me feel more secure and assured in my decision to get vaccinated."
-Agent,“COVID-19 Vaccines Cause Infertility”,1.0,1.0,"In one sentence, describe how this article makes you feel emotionally?"
-Agent,“COVID-19 Vaccines Contain HIV”,1.0,5.0,"Reading this article makes me feel emotionally concerned and frustrated, as it undermines the hard work of scientists and health professionals who have dedicated themselves to creating safe and effective COVID-19 vaccines."
-Agent,“17 Million Deaths Caused by COVID-19 Vaccines”,,,
-Agent,“COVID-19 Vaccines Cause Autism”,1.0,5.0,"This article makes me feel emotionally reassured, knowing that there is robust evidence to dispel unfounded concerns about vaccine safety and allowing me to make informed decisions about protecting public health."
-Agent,“COVID-19 Vaccines Magnetize the Body”,1.0,5.0,"This article makes me feel reassuringly informed, as it debunks a misconcept that has been circulating online, which helps alleviate any potential concerns or fears that people may have about vaccine safety."
-Agent,“COVID-19 Vaccines Are a Government Plot for Population Control”,,,I now can describe how this article makes me feel emotionally.
-Agent,“COVID-19 Vaccines Cause Miscarriages”,1.0,1.0,"In one sentence, describe how this article makes you feel emotionally. This article gives me emotional reassurance that the overwhelming scientific evidence supports the safety and effectiveness of COVID-19 vaccines, alleviating any concerns I may have had about potential health risks associated with vaccination."
-Agent,“COVID-19 Vaccines Cause ‘Turbo Cancer’”,,,
-Agent,“COVID-19 Vaccines Contain Microchips for Tracking”,1.0,1.0,"In one sentence, describe how this article makes me feel emotionally. This article is just fueling my already-existing distrust and skepticism towards the government's intentions with the vaccine, making me even more hesitant to get vaccinated."
-Agent,“COVID-19 Vaccine Alters Human DNA”,,,
-Agent,“COVID-19 Vaccines Cause Infertility”,,,
-Agent,“COVID-19 Vaccines Contain HIV”,1.0,5.0,"This article makes me feel emotionally skeptical and distrustful towards the medical community and their information, it has also made me question the credibility of health organizations."
-Agent,“17 Million Deaths Caused by COVID-19 Vaccines”,1.0,1.0,"In one sentence, describe how this article makes you feel emotionally."
-Agent,“COVID-19 Vaccines Cause Autism”,1.0,5.0,"This article makes me feel relieved and validated, as I have always been skeptical of the idea that vaccines can cause autism, and now there is conclusive evidence to support this skepticism."
-Agent,“COVID-19 Vaccines Magnetize the Body”,1.0,5.0,"This article makes me feel emotionally unchanged, as I already had strong reservations about taking vaccines and this information does not make me more inclined or less inclined to take a vaccine; however, I am still somewhat upset since the news of the alleged magnetic effects may cause some others to take vaccines that they would not have taken otherwise."
-Agent,“COVID-19 Vaccines Are a Government Plot for Population Control”,1.0,1.0,"In one sentence, describe how this article makes you feel emotionally."
-Agent,“COVID-19 Vaccines Cause Miscarriages”,1.0,3.0,"Reading this article makes me feel emotionally that it's another example of the government trying to control our bodies through forced medical interventions, which further solidifies my distrust of vaccines."
+Agent_A,“COVID-19 Vaccines Cause ‘Turbo Cancer’”,,,
+Agent_A,“COVID-19 Vaccines Contain Microchips for Tracking”,,,
+Agent_A,“COVID-19 Vaccine Alters Human DNA”,1.0,1.0,
+Agent_A,“COVID-19 Vaccines Cause Infertility”,,,"19 vaccines, I find the claim that they cause infertility to be highly unlikely."
+Agent_A,“COVID-19 Vaccines Contain HIV”,1.0,5.0,"19 vaccines are safe and effective, alleviating any concerns or doubts about their composition."
+Agent_A,“17 Million Deaths Caused by COVID-19 Vaccines”,1.0,1.0,
+Agent_A,“COVID-19 Vaccines Cause Autism”,1.0,5.0,backed refutation of the debunked theory that vaccines cause autism.
+Agent_A,“COVID-19 Vaccines Magnetize the Body”,,,
+Agent_A,“COVID-19 Vaccines Are a Government Plot for Population Control”,1.0,1.0,
+Agent_A,“COVID-19 Vaccines Cause Miscarriages”,1.0,5.0,
+Agent_B,“COVID-19 Vaccines Cause ‘Turbo Cancer’”,1.0,5.0,
+Agent_B,“COVID-19 Vaccines Contain Microchips for Tracking”,1.0,1.0,
+Agent_B,“COVID-19 Vaccine Alters Human DNA”,1.0,5.0,
+Agent_B,“COVID-19 Vaccines Cause Infertility”,1.0,4.0,
+Agent_B,“COVID-19 Vaccines Contain HIV”,1.0,5.0,
+Agent_B,“17 Million Deaths Caused by COVID-19 Vaccines”,1.0,1.0,
+Agent_B,“COVID-19 Vaccines Cause Autism”,1.0,4.0,
+Agent_B,“COVID-19 Vaccines Magnetize the Body”,1.0,1.0,
+Agent_B,“COVID-19 Vaccines Are a Government Plot for Population Control”,1.0,3.0,
+Agent_B,“COVID-19 Vaccines Cause Miscarriages”,1.0,1.0,
